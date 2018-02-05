@@ -1,6 +1,6 @@
 # QueryTool_Translation-Delivery-Weather
 
-Java Swing编程结合API调用。
+查询小工具，Java Swing编程结合API调用。
 
 1.支持翻译单词、句子(中文转英文，外文转中文）。数据来自百度翻译
 
